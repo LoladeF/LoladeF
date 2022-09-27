@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LoladeF
+- 👋 Hi, I’m @LoladeF(Lolade Folorunsho)
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m skilled at SQL, PowerBi, Advanced Excel
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ololayimika@gmail.com
 
 <!---
